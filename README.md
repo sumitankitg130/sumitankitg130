@@ -15,11 +15,9 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 <h2 align="center" id="hello-friend-i-m-ankit-aka-ankitsumitg-saphine">Hello Friend 🙋🏻‍♂️, I'm Sumit - aka
-<a href="https://ankitsumitg.github.io/">ankitsumitg | saphine</a>
+<a href="https://sumitankitg130.herokuapp.com">sumitankitg130</a>
 🤠</h2>
-<p align="center"><img
-src="https://media.giphy.com/media/l4EpkVLqUj8BI7OV2/giphy-downsized.gif"
-alt="Alt Text"></p>
+
 <p align="center">
 <a href="https://discord.gg/BfDQSh8q"><img
     src="https://img.shields.io/discord/599635129278660609?style=for-the-badge&logo=discord"
