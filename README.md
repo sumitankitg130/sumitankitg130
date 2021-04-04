@@ -30,7 +30,7 @@ Here are some ideas to get you started:
     alt="Commits Badge"></a>
 <a
     href="https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2Fsumitankitg130&screen_name=sumitankitg130"><img
-    src="https://img.shields.io/twitter/follow/sumitankitg130?color=1DA1F2&logo=twitter&style=for-the-badge"
+    src="https://img.shields.io/twitter/follow/Fullmetal_Sumit?color=1DA1F2&logo=twitter&style=for-the-badge"
     alt="Twitter Follow"></a>
 </p>
 
