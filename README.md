@@ -61,7 +61,6 @@ Here are some ideas to get you started:
 [<img align="left" alt="ankitsumitg | Instagram" width="25px" src="https://img.icons8.com/doodle/48/000000/instagram-new.png" />][instagram]
 [<img align="left" alt="ankitsumitg | Discord" width="25px" src="https://img.icons8.com/plasticine/100/000000/discord-logo.png" />][discord]
 [<img align="left" alt="ankitsumitg | Reddit" width="25px" src="https://img.icons8.com/doodle/48/000000/reddit--v1.png"/>][reddit]
-[<img align="left" alt="ankitsumitg | Twitch" width="25px" src="https://img.icons8.com/doodle/48/000000/twitch.png"/>][twitch]
 <br>
 
 ---
