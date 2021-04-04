@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 <h2 align="center" id="hello-friend-i-m-ankit-aka-ankitsumitg-saphine">Hello Friend 🙋🏻‍♂️, I'm Sumit - aka
-<a href="https://sumitankitg130.herokuapp.com">sumitankitg130</a>
+<a href="https://sumit-slaze.herokuapp.com/">sumitankitg130</a>
 🤠</h2>
 
 <p align="center">
