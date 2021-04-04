@@ -101,10 +101,10 @@ Here are some ideas to get you started:
 [gif]:https://media.giphy.com/media/l4EpkVLqUj8BI7OV2/giphy-downsized.gif
 [website]: Linkedin
 [twitter]: https://twitter.com/ankitsumitg
-[instagram]: https://instagram.com/ankitsumitg/
-[linkedin]: https://www.linkedin.com/in/ankitsumitg/
-[reddit]:https://www.reddit.com/user/ankitsumitg
-[github]:https://github.com/ankitsumitg
+[instagram]: https://www.instagram.com/sumit._.gupta._/
+[linkedin]: https://www.linkedin.com/in/sumit-gupta-68942416a/
+[reddit]:https://www.reddit.com/user/sumitankitg130
+[github]:https://github.com/sumitankitg130
 [discord]:https://discord.gg/BfDQSh8q
 
 
