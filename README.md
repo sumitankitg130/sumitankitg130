@@ -29,8 +29,8 @@ Here are some ideas to get you started:
     src="https://badges.pufler.dev/commits/yearly/sumitankitg130?style=for-the-badge&logo=git"
     alt="Commits Badge"></a>
 <a
-    href="https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2Fankitsumitg&screen_name=ankitsumitg"><img
-    src="https://img.shields.io/twitter/follow/ankitsumitg?color=1DA1F2&logo=twitter&style=for-the-badge"
+    href="https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2Fsumitankitg130&screen_name=sumitankitg130"><img
+    src="https://img.shields.io/twitter/follow/sumitankitg130?color=1DA1F2&logo=twitter&style=for-the-badge"
     alt="Twitter Follow"></a>
 </p>
 
