@@ -22,11 +22,11 @@ Here are some ideas to get you started:
 <a href="https://discord.gg/BfDQSh8q"><img
     src="https://img.shields.io/discord/599635129278660609?style=for-the-badge&logo=discord"
     alt="Discord"></a>
-<a href="https://github.com/ankitsumitg"><img
-    src="https://img.shields.io/github/followers/ankitsumitg?color=black&style=for-the-badge&logo=github"
+<a href="https://github.com/sumitankitg130"><img
+    src="https://img.shields.io/github/followers/sumitankitg130?color=black&style=for-the-badge&logo=github"
     alt="Github"></a>
-<a href="https://github.com/ankitsumitg"><img
-    src="https://badges.pufler.dev/commits/yearly/ankitsumitg?style=for-the-badge&logo=git"
+<a href="https://github.com/sumitankitg130"><img
+    src="https://badges.pufler.dev/commits/yearly/sumitankitg130?style=for-the-badge&logo=git"
     alt="Commits Badge"></a>
 <a
     href="https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2Fankitsumitg&screen_name=ankitsumitg"><img
