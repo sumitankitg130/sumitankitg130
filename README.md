@@ -36,7 +36,6 @@ Here are some ideas to get you started:
 - Found a bug 🐛, file an issue!
 - Reach me on Discord for anything. 🦸‍♂️
 ---
-<br>
 
 ### Skills and Tools:
 <img src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white" /> <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" /> <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" /> <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" /> <img src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white" /> <img alt="MongoDB" src ="https://img.shields.io/badge/MongoDB-%234ea94b.svg?&style=for-the-badge&logo=mongodb&logoColor=white"/> <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" /> <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" /> <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" /> <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" /> <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" /> <img src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" /> <img alt="Bootstrap" src="https://img.shields.io/badge/bootstrap%20-%23563D7C.svg?&style=for-the-badge&logo=bootstrap&logoColor=white"/> <img alt="Django" src="https://img.shields.io/badge/django%20-%23092E20.svg?&style=for-the-badge&logo=django&logoColor=white"/> <img alt="Heroku" src="https://img.shields.io/badge/heroku%20-%23430098.svg?&style=for-the-badge&logo=heroku&logoColor=white"/>
@@ -44,18 +43,9 @@ Here are some ideas to get you started:
 ---
 
 <p>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ankitsumitg&theme=dracula&layout=compact" alt="powered-by-coffee" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sumitankitg130&theme=dracula&layout=compact" alt="powered-by-coffee" />
 </p>
 
----
-### <ins>Recent Activity</ins> ->
-
-<!--START_SECTION:activity-->
-* Worked on some code. ⚒
-* Had a lot of coffee ☕ and some food. 🍔🍕🍲
-* Comited some code. 💾
-* Slept. 😴
-* Repeat. 🔁
 ---
 <h2 align="center">Let's end on a good note, sorry joke 😁</h2>
 <p align="center">
