@@ -18,12 +18,12 @@ Here are some ideas to get you started:
 <a href="https://sumit-slaze.herokuapp.com/">sumitankitg130</a>
 🤠</h2>
 
-<p align='center'>
+
 [![Discord][discord-shield]][discord]
 [![Github][github-shield]][github]
 [![Commits][commits-shield]][github]
 [![LinkedIn][linkedin-shield]][linkedin]
- </p>
+
 ---
 
 ### I'm a Coder & Proud Geek 👨🏻‍💻!!!
