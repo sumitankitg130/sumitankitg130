@@ -30,6 +30,8 @@ Here are some ideas to get you started:
     alt="Commits Badge"></a>
 </p>
 
+[![Discord][discord-shield]][discord]
+[![Github][github-shiield]][github]
 ---
 
 ### I'm a Coder & Proud Geek 👨🏻‍💻!!!
@@ -101,5 +103,15 @@ Here are some ideas to get you started:
 [reddit]:https://www.reddit.com/user/sumitankitg130
 [github]:https://github.com/sumitankitg130
 [discord]:https://discord.gg/5sJ8QVVQ
+
+
+
+
+[linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
+[discord-shield]: https://img.shields.io/discord/599635129278660609?style=for-the-badge&logo=discord
+[github-shield]: https://img.shields.io/github/followers/sumitankitg130?color=black&style=for-the-badge&logo=github
+[commits-shield]: https://badges.pufler.dev/commits/yearly/sumitankitg130?style=for-the-badge&logo=git
+
+
 
 
