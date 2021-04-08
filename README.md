@@ -32,6 +32,8 @@ Here are some ideas to get you started:
 
 [![Discord][discord-shield]][discord]
 [![Github][github-shield]][github]
+[![Commits][commits-shield]][github]
+[![LinkedIn][linkedin-shield]][linkedin]
 ---
 
 ### I'm a Coder & Proud Geek 👨🏻‍💻!!!
