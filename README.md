@@ -37,7 +37,6 @@
 <p align="center">
 <img src="https://readme-jokes.vercel.app/api?theme=darcula" alt="jokes-card"/>
 </p>
-
 ---
 <p align="center">
 <img src="https://forthebadge.com/images/badges/powered-by-coffee.svg" alt="powered-by-coffee" onerror="this.onerror=null; this.src='https://img.shields.io/badge/POWERED%20BY-COFFEE%20%20%20%E2%98%95-yellow?style=for-the-badge'"/>
