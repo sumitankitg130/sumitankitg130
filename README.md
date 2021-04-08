@@ -31,7 +31,7 @@ Here are some ideas to get you started:
 </p>
 
 [![Discord][discord-shield]][discord]
-[![Github][github-shiield]][github]
+[![Github][github-shield]][github]
 ---
 
 ### I'm a Coder & Proud Geek 👨🏻‍💻!!!
