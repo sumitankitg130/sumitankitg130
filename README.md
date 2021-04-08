@@ -28,10 +28,6 @@ Here are some ideas to get you started:
 <a href="https://github.com/sumitankitg130"><img
     src="https://badges.pufler.dev/commits/yearly/sumitankitg130?style=for-the-badge&logo=git"
     alt="Commits Badge"></a>
-<a
-    href="https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2Fsumitankitg130&screen_name=Fullmetal_Sumit"><img
-    src="https://img.shields.io/twitter/follow/Fullmetal_Sumit?color=1DA1F2&logo=twitter&style=for-the-badge"
-    alt="Twitter Follow"></a>
 </p>
 
 ---
