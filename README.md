@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 🤠</h2>
 
 <p align="center">
-<a href="https://discord.gg/BfDQSh8q"><img
+<a href="https://discord.gg/5sJ8QVVQ"><img
     src="https://img.shields.io/discord/599635129278660609?style=for-the-badge&logo=discord"
     alt="Discord"></a>
 <a href="https://github.com/sumitankitg130"><img
@@ -100,29 +100,10 @@ Here are some ideas to get you started:
 
 [gif]:https://media.giphy.com/media/l4EpkVLqUj8BI7OV2/giphy-downsized.gif
 [website]: Linkedin
-[twitter]: https://twitter.com/ankitsumitg
 [instagram]: https://www.instagram.com/sumit._.gupta._/
 [linkedin]: https://www.linkedin.com/in/sumit-gupta-68942416a/
 [reddit]:https://www.reddit.com/user/sumitankitg130
 [github]:https://github.com/sumitankitg130
-[discord]:https://discord.gg/BfDQSh8q
+[discord]:https://discord.gg/5sJ8QVVQ
 
 
-<!---
-ankitsumitg/ankitsumitg is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
-- 👋 Hi, I’m @ankitsumitg
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
---->
-
-<!---
-## Hello Friend, I'm Sumit - aka [ankitsumitg | saphine][linkedin] 👋
-![Alt Text][gif]
-[![Discord](https://img.shields.io/discord/599635129278660609?style=for-the-badge&logo=discord)](https://discord.gg/BfDQSh8q) 
-[![Github](https://img.shields.io/github/followers/ankitsumitg?color=black&style=for-the-badge&logo=github)](https://github.com/ankitsumitg) 
-[![Commits Badge](https://badges.pufler.dev/commits/monthly/ankitsumitg?style=for-the-badge&logo=git)][github] [![Twitter Follow](https://img.shields.io/twitter/follow/ankitsumitg?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2Fankitsumitg&screen_name=ankitsumitg)
-
---->
