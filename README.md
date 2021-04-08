@@ -1,20 +1,6 @@
 ### Hi there 👋
 
-<!--
-**sumitankitg130/sumitankitg130** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-<h2 align="center" id="hello-friend-i-m-ankit-aka-ankitsumitg-saphine">Hello Friend 🙋🏻‍♂️, I'm Sumit - aka
+<h2 align="center">Hello Friend 🙋🏻‍♂️, I'm Sumit - aka
 <a href="https://sumit-slaze.herokuapp.com/">sumitankitg130</a>
 🤠</h2>
 
@@ -59,8 +45,6 @@ Here are some ideas to get you started:
 </p>
 
 ---
-
-<!--END_SECTION:activity-->
 
 
 [gif]:https://media.giphy.com/media/l4EpkVLqUj8BI7OV2/giphy-downsized.gif
