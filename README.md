@@ -18,17 +18,6 @@ Here are some ideas to get you started:
 <a href="https://sumit-slaze.herokuapp.com/">sumitankitg130</a>
 🤠</h2>
 
-<p align="center">
-<a href="https://discord.gg/5sJ8QVVQ"><img
-    src="https://img.shields.io/discord/599635129278660609?style=for-the-badge&logo=discord"
-    alt="Discord"></a>
-<a href="https://github.com/sumitankitg130"><img
-    src="https://img.shields.io/github/followers/sumitankitg130?color=black&style=for-the-badge&logo=github"
-    alt="Github"></a>
-<a href="https://github.com/sumitankitg130"><img
-    src="https://badges.pufler.dev/commits/yearly/sumitankitg130?style=for-the-badge&logo=git"
-    alt="Commits Badge"></a>
-</p>
 
 [![Discord][discord-shield]][discord]
 [![Github][github-shield]][github]
@@ -39,7 +28,6 @@ Here are some ideas to get you started:
 ### I'm a Coder & Proud Geek 👨🏻‍💻!!!
 
 - Working. Trying my best to work & contribute towards a better cause, have a great impact on people & less impact on environment. 🌲💚💚💚
-- Wish me on 22nd April. 😅
 - I also do Competitive Programming and Capture the Flag challenges just for fun mostly. 💻😀
 - I’m currently getting my hands dirty on Rust. 👦🏻
 - Do checkout my repos. 👨🏻‍💻🖱
@@ -47,8 +35,7 @@ Here are some ideas to get you started:
 - Found a bug 🐛, file an issue!
 - Reach me on Discord for anything. 🦸‍♂️
 ---
-### My Life Philosophy
-> If you don’t have any shadows, you’re not standing in the light ~ ***Lady Gaga***
+
 
 ---
 ### Workspace Spec 💻
