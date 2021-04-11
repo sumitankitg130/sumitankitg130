@@ -1,4 +1,3 @@
-### Hi there 👋
 
 <h2 align="center">Hello Friend 🙋🏻‍♂️, I'm Sumit - aka
 <a href="https://sumit-slaze.herokuapp.com/">sumitankitg130</a>
