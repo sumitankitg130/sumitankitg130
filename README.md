@@ -8,7 +8,7 @@
 [![Github][github-shield]][github]
 [![Commits][commits-shield]][github]
 [![LinkedIn][linkedin-shield]][linkedin]
-[![TryHackMe][tryhackme-shield]]
+![TryHackMe][tryhackme-shield]
 
 ---
 
