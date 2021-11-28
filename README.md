@@ -8,7 +8,9 @@
 [![Github][github-shield]][github]
 [![Commits][commits-shield]][github]
 [![LinkedIn][linkedin-shield]][linkedin]
+<html>
 <script src="https://tryhackme.com/badge/205655"></script>
+  </html>
 
 ---
 
