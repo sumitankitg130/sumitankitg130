@@ -8,7 +8,6 @@
 [![Github][github-shield]][github]
 [![Commits][commits-shield]][github]
 [![LinkedIn][linkedin-shield]][linkedin]
-![TryHackMe][tryhackme-shield]
 
 
 
@@ -51,7 +50,6 @@
 [discord-shield]: https://img.shields.io/discord/599635129278660609?style=for-the-badge&logo=discord
 [github-shield]: https://img.shields.io/github/followers/sumitankitg130?color=black&style=for-the-badge&logo=github
 [commits-shield]: https://badges.pufler.dev/commits/yearly/sumitankitg130?style=for-the-badge&logo=git
-[tryhackme-shield]: https://tryhackme-badges.s3.amazonaws.com/sumitankitg130.png
 
 
 
