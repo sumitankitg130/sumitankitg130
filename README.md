@@ -33,7 +33,7 @@
 </p>
 
 ---
-![profile counter](https://komarev.com/ghpvc/?username=sumitankitg130&label=Profile+Views&color=3E9FEF)
+![profile counter](https://komarev.com/ghpvc/?username=sumitankitg130&label=Profile+Views&color=3E9FEF&style=flat-square)
 
 
 [gif]:https://media.giphy.com/media/l4EpkVLqUj8BI7OV2/giphy-downsized.gif
